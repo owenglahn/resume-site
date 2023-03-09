@@ -1,11 +1,12 @@
 import React from 'react'
-import Nav from '../components/Nav'
+import TopSection from '../components/TopSection'
 
 export default function AboutMe() {
   return (
     <>
-        <Nav />
+      <TopSection name="About Me">
         About Me
+      </TopSection>
     </>
   )
 }

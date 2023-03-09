@@ -1,12 +1,12 @@
 import React from 'react'
-import Nav from '../components/Nav';
+import TopSection from '../components/TopSection';
 
 export default function Portfolio() {
   return (
-
     <>
-        <Nav />
+      <TopSection name="Portfolio">
         Portfolio
+      </TopSection>
     </>
   );
 }
