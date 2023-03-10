@@ -53,8 +53,22 @@ export const work: ITimeLineItem[] = [
         content: 
         <ul className="list-disc">
             <li>
-
+                Setup data collection pipeline for machine learning systems
+            </li>
+            <li>
+                Operated state-of-the-art hyperspectral imaging systems in both Cornell and federal labs
+            </li>
+            <li>
+                Discussed image processing and machine learning with Cornell CS collaborators
             </li>
         </ul>
     }
+];
+
+export const softSkills: string[] = [
+    
+];
+
+export const hardSkills: string[] = [
+
 ];
