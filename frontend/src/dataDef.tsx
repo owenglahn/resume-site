@@ -5,7 +5,7 @@ export interface ITimeLineItem {
   date: string;
   location: string;
   title: string;
-  content: JSX.Element;
+  content?: JSX.Element;
   gpa?: string;
 };
 
@@ -17,7 +17,7 @@ export const education: ITimeLineItem[] = [
     date: 'September 2019-February 2023',
     location: 'McGill University',
     title: 'Bachelors in Computer Science, Minor in Mathematics',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>Received Dean's Honour List award 2020. Completed four-year degree in three and a half years.</p>,
     gpa: "3.7",
   }
 ];
@@ -66,9 +66,26 @@ export const work: ITimeLineItem[] = [
 ];
 
 export const softSkills: string[] = [
-    
+    'Oral and written communication', 
+    'Self-instruction',
+    'SCRUM/KanBan',
+    'Writing Documentation',
+    'Agile development',
 ];
 
 export const hardSkills: string[] = [
-
+    'Git',
+    'Linux/Unix', 
+    'CI/CD', 
+    'Terraform', 
+    'AWS', 
+    'Distributed Algorithms/Systems', 
+    'Robotics (ROS)', 
+    'API Design/Usage', 
+    'Maven', 
+    'Frontend Development (Angular, React)', 
+    'Docker', 
+    'MongoDB', 
+    'Algorithms/Data Structures', 
+    'Apache Kafka'
 ];

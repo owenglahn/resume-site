@@ -18,7 +18,7 @@ export default function Nav() {
             About Me
           </a>
           <a href="/#travel" className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
-            Travel 
+            Travels 
           </a>
         </div>
       </div>
