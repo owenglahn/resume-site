@@ -9,7 +9,7 @@ export default function Landing() {
           I'm originally from New York State, but for the past four years I have been living in Montréal, Québec, where I
           attended McGill University. 
           <br /><br />
-          Outside of programming, my hobbies include cooking, hiking, reading, learning about other cultures, and photography.
+          When I'm not working on programming projects, I like to cook, hike, read, learn about other cultures, and do photography.
           The pictures you see in the background are actually film photos that I took on a recent backpacking trip in Colombia.
         </TopSection>
     </>

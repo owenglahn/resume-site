@@ -3,7 +3,6 @@ import React from "react";
 import Landing from "./pages/Landing";
 import Resume from "./pages/Resume";
 import Portfolio from "./pages/Portfolio";
-import AboutMe from "./pages/AboutMe";
 import Travel from "./pages/Travel";
 
 
@@ -13,7 +12,6 @@ const App = () => {
       <Landing/>
       <Resume />
       <Portfolio/>
-      <AboutMe /> 
       <Travel />
     </>
   );
