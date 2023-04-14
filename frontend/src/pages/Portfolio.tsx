@@ -4,7 +4,7 @@ import PortfolioSection from '../components/PortfolioSection';
 
 export default function Portfolio() {
   return (
-    <div id="portfolio">
+    <div id="portfolio" className="h-auto">
       <Section sectionId="Portfolio">
         <PortfolioSection name="ZooKeeper-Coordinated Distributed Computing Application" source="">
           <ProjectDesc>
