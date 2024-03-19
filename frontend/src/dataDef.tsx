@@ -30,6 +30,22 @@ export const work: ITimeLineItem[] = [
         content: 
         <ul className="list-disc">
             <li>
+                Consulted customers representing some of the worlds biggest enterprise on their business 
+                software solution suite and migration to the cloud
+            </li>
+            <li>
+                Designed cloud infrastructure and assembled cloud enterprise resource planning solutions 
+                for customers with highly complex needs in critical and dynamic industries
+            </li>
+        </ul>
+    },
+    {
+        date: "May 2022-August 2022", 
+        location: "Ubisoft Montréal", 
+        title: "Online Programmer Intern", 
+        content: 
+        <ul className="list-disc">
+            <li>
                 Built and deployed a standardized java library for sending monitoring metrics to Datadog using
                 both API calls and UDP communication with a Datadog agent
             </li>
