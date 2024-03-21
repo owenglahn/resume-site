@@ -25,8 +25,8 @@ export const education: ITimeLineItem[] = [
 export const work: ITimeLineItem[] = [
     {
         date: "May 2022-August 2022", 
-        location: "Ubisoft Montréal", 
-        title: "Online Programmer Intern", 
+        location: "Cloud Architect & Advisor", 
+        title: "SAP", 
         content: 
         <ul className="list-disc">
             <li>
