@@ -5,7 +5,7 @@ export default function Landing() {
   return (
     <>
         <TopSection name="Welcome!">
-          Hi! My name is Owen Glahn and I am a software developer with experience in frontend, backend and embedded systems.
+          My name is Owen Glahn and I am a software developer with experience in frontend, backend and embedded systems.
           I'm originally from New York State, but I lived in Montréal, Québec from 2019 to 2023 where I attended McGill University.
           I currently live in Brooklyn, New York and work for SAP.
           <br /><br />
