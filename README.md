@@ -6,3 +6,8 @@ https://owen-resume-site.web.app/
 - In this project I built reusable React functional components which allow for concise code and a flexible UI.
 - This project uses tailwind CSS for styling.
 - The web server for this application is hosted by Firebase.
+
+### Update Deployment
+- `npm run build`
+- `firebase login`
+- `firebase deploy`
