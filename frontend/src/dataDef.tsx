@@ -24,7 +24,21 @@ export const education: ITimeLineItem[] = [
 
 export const work: ITimeLineItem[] = [
     {
-        date: "October 2023-Present", 
+        date: "April 2024-Present", 
+        location: "SAP", 
+        title: "Software Develoepr", 
+        content: 
+        <ul className="list-disc">
+            <li>
+                Refactored backend for internal sales tool, optimizing performance, readability and extensibility
+            </li>
+            <li>
+                Added testing coverage to code base
+            </li>
+        </ul>
+    },
+    {
+        date: "October 2023-April 2024", 
         location: "SAP", 
         title: "Cloud Architect & Advisor", 
         content: 
