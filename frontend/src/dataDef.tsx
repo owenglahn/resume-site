@@ -30,6 +30,9 @@ export const work: ITimeLineItem[] = [
         content: 
         <ul className="list-disc">
             <li>
+                Improved and added multi-environment compatibility to playwright script, deployed in Jenkins, performing load testing
+            </li>
+            <li>
                 Refactored backend for internal sales tool, optimizing performance, readability and extensibility
             </li>
             <li>
